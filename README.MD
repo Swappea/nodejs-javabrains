@@ -8,3 +8,10 @@
 * NodeJS has 2 versions
   * LTS and Current version
   * node -v -- gives version of nodejs installed
+
+* NodeJS Repl
+  * Run Eval Print Loop
+  * run the typed command
+  * evaluate it 
+  * print the output
+  * loop above steps again
