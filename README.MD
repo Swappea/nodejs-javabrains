@@ -15,6 +15,10 @@
   * evaluate it 
   * print the output
   * loop above steps again
+ 
+* NVM 
+  * node version manager 
+  * can be used to manage different version of nodejs on a machine
   
 ## When to use Node.js and when not to ?
 
@@ -42,4 +46,6 @@
  * Command Line Utilites - Event based
  * Build Tooling - JS build tooling
  
- 
+## Run scripts
+
+* node <filename>
